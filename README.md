@@ -1,8 +1,10 @@
 # 3D-barcode-generator
-generates distorted barcodes dataset, can be useful for learning a Computer Vision model 
+generates <b>distorted barcodes</b> dataset, can be useful for Computer Vision models learning 
 
-## Install
-
+## Download into your PyCharm
+- From `VCS` and select `Get from Version Control`.
+  - Fill `URL` by `https://github.com/elleish/3D-barcode-generator`
+    
 ## Requirments
 <ol><li>numpy==1.23.5</li>
 <li>treepoem==3.23.0</li>
